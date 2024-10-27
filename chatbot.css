@@ -5,7 +5,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background: url('images/bg.webp') no-repeat center center fixed; /* Set a specific background image */
+    background: url('bg.webp') no-repeat center center fixed; /* Set a specific background image */
     background-size: cover; /* Cover the entire viewport */
     color: white; /* White text for better contrast */
 }
